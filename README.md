@@ -19,6 +19,8 @@ then
 
 ## The problem 
 
+We are trying to mix a non-history based navigation system with one that uses the history object and the onpopstate event.
+
  use cases to test for
  1. A user selects a media item to play
  ->PlayerPage ->PlayerLoadingPage ->PlayerPage is incorrectly detected as backward navigation

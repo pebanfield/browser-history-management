@@ -1,2 +1,12 @@
 # browser-history-management
-Sample code to manage browser history
+This test suite simulates browser navigation with onpopstate
+
+# dependencies
+
+- npm
+- bower
+- 
+
+# installation
+
+bower install

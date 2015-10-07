@@ -11,11 +11,11 @@ This test suite simulates browser navigation with onpopstate
 
 to install the client package manager used to install jasmine
 
-''npm install -g bower''
+''npm install -g yo''
 
 then 
 
-''bower install''
+''yo jasmine''
 
 ## The problem 
 
